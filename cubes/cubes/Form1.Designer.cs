@@ -42,7 +42,7 @@
             this.btFirst.Name = "btFirst";
             this.btFirst.Size = new System.Drawing.Size(372, 237);
             this.btFirst.TabIndex = 0;
-            this.btFirst.Text = "First dice: ";
+            this.btFirst.Text = "You:";
             this.btFirst.UseVisualStyleBackColor = false;
             // 
             // btSecond
@@ -54,7 +54,7 @@
             this.btSecond.Name = "btSecond";
             this.btSecond.Size = new System.Drawing.Size(372, 237);
             this.btSecond.TabIndex = 1;
-            this.btSecond.Text = "Second dice: ";
+            this.btSecond.Text = "Computer:";
             this.btSecond.UseVisualStyleBackColor = false;
             // 
             // btAnswer
@@ -65,7 +65,7 @@
             this.btAnswer.Name = "btAnswer";
             this.btAnswer.Size = new System.Drawing.Size(776, 183);
             this.btAnswer.TabIndex = 2;
-            this.btAnswer.Text = "Dice №  wins!";
+            this.btAnswer.Text = "...";
             this.btAnswer.UseVisualStyleBackColor = false;
             // 
             // button4
