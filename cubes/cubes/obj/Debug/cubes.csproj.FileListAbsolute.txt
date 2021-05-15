@@ -1,0 +1,10 @@
+C:\Users\uzimane_\source\repos\cubes\cubes\bin\Debug\cubes.exe.config
+C:\Users\uzimane_\source\repos\cubes\cubes\bin\Debug\cubes.exe
+C:\Users\uzimane_\source\repos\cubes\cubes\bin\Debug\cubes.pdb
+C:\Users\uzimane_\source\repos\cubes\cubes\obj\Debug\cubes.csprojAssemblyReference.cache
+C:\Users\uzimane_\source\repos\cubes\cubes\obj\Debug\cubes.Form1.resources
+C:\Users\uzimane_\source\repos\cubes\cubes\obj\Debug\cubes.Properties.Resources.resources
+C:\Users\uzimane_\source\repos\cubes\cubes\obj\Debug\cubes.csproj.GenerateResource.cache
+C:\Users\uzimane_\source\repos\cubes\cubes\obj\Debug\cubes.csproj.CoreCompileInputs.cache
+C:\Users\uzimane_\source\repos\cubes\cubes\obj\Debug\cubes.exe
+C:\Users\uzimane_\source\repos\cubes\cubes\obj\Debug\cubes.pdb
